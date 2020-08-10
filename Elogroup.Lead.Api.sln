@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Elogroup.Lead.Api", "Elogroup.Lead.Api.csproj", "{2A8D18E7-354B-4834-8AD3-811FC7ACE9B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A8D18E7-354B-4834-8AD3-811FC7ACE9B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A8D18E7-354B-4834-8AD3-811FC7ACE9B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A8D18E7-354B-4834-8AD3-811FC7ACE9B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A8D18E7-354B-4834-8AD3-811FC7ACE9B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C0BCCC7-A0DB-471B-9EBD-D5DDF7DB76B0}
+	EndGlobalSection
+EndGlobal
